@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7651
     wikipedia: http://en.wikipedia.org/wiki/Lyster_Hoxie_Dewey
 description: Comparison of tests and commercial practice. pp. 21.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17855#Hemp-Hurds-as-Paper-Making-MaterialUnited-States-Department-of-Agriculture-Bulletin-No.-404
 gutenberg_bookshelf:
 - Manufacturing
 - Technology
