@@ -1,0 +1,37 @@
+_repo: Hemp-Hurds-as-Paper-Making-MaterialUnited-States-Department-of-Agriculture-Bulletin-No.-404_17855
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Merrill, Jason L.
+    gutenberg_agent_id: '7652'
+    url: http://www.gutenberg.org/2009/agents/7652
+  - agent_name: Dewey, Lyster H. (Lyster Hoxie)
+    alias: Dewey, Lyster Hoxie
+    birthdate: 1865
+    deathdate: 1944
+    gutenberg_agent_id: '7651'
+    url: http://www.gutenberg.org/2009/agents/7651
+    wikipedia: http://en.wikipedia.org/wiki/Lyster_Hoxie_Dewey
+description: Comparison of tests and commercial practice. pp. 21.
+gutenberg_bookshelf:
+- Manufacturing
+- Technology
+gutenberg_issued: '2006-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17855'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: United States. Dept. of Agriculture. Farmers' bulletin no. 404
+subjects:
+- !lcsh 'Fiber plants'
+- !lcsh 'Hemp'
+- !lcsh 'Paper industry'
+- !lcc 'TS'
+title: Hemp Hurds as Paper-Making Material
+url: http://www.gutenberg.org/ebooks/17855
